@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/testvertxbus.iml" filepath="$PROJECT_DIR$/testvertxbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxgateway/vertxgateway.iml" filepath="$PROJECT_DIR$/vertxgateway/vertxgateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxmain/vertxmain.iml" filepath="$PROJECT_DIR$/vertxmain/vertxmain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxread/vertxread.iml" filepath="$PROJECT_DIR$/vertxread/vertxread.iml" />
+    </modules>
+  </component>
+</project>
